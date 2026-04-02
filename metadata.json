@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of GeoResto",
+  "description": "A location-based restaurant management and ordering application featuring real-time maps, AI-assisted menu generation, and seamless chef-client interactions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
