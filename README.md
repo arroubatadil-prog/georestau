@@ -1,39 +1,39 @@
 
-# 🍽️ GeoResto - Plateforme de Commande de Restaurant en Temps Réel
+#  GeoResto - Plateforme de Commande de Restaurant en Temps Réel
 
 ![GeoResto](https://img.shields.io/badge/Version-2.0-orange)
 ![Mobile](https://img.shields.io/badge/Mobile-Optimized-green)
 ![Chatbot](https://img.shields.io/badge/Chatbot-AI%20Powered-blue)
 
-## 📱 Application Mobile-First avec Chatbot Intelligent
+## Application Mobile-First avec Chatbot Intelligent
 
 GeoResto est une plateforme moderne qui connecte les restaurants et les clients en temps réel. Commandez, suivez et discutez - le tout depuis votre téléphone !
 le lien vers l'application :https://georestau-13490.web.app/
 ---
 
-## ✨ Fonctionnalités Principales
+##  Fonctionnalités Principales
 
 ### Pour les Clients 👥
-- 📍 **Carte Interactive** - Trouvez des restaurants près de vous
-- 🍽️ **Menus en Temps Réel** - Consultez les plats et prix
-- 🛒 **Commande Rapide** - Commandez en quelques clics
-- 📦 **Suivi en Direct** - Suivez votre commande en temps réel
-- 💬 **Chat Restaurant** - Discutez directement avec le chef
-- 🤖 **Assistant IA** - Chatbot intelligent multilingue
-- 📱 **QR Code** - Commandez sans compte depuis la table
-- ⭐ **Avis & Notes** - Partagez votre expérience
+-  **Carte Interactive** - Trouvez des restaurants près de vous
+-  **Menus en Temps Réel** - Consultez les plats et prix
+-  **Commande Rapide** - Commandez en quelques clics
+-  **Suivi en Direct** - Suivez votre commande en temps réel
+-  **Chat Restaurant** - Discutez directement avec le chef
+-  **Assistant IA** - Chatbot intelligent multilingue
+-  **QR Code** - Commandez sans compte depuis la table
+-  **Avis & Notes** - Partagez votre expérience
 
 ### Pour les Chefs 👨‍🍳
-- 🏪 **Profil Restaurant** - Créez votre vitrine en ligne
-- 📋 **Gestion Menu** - Ajoutez et modifiez vos plats
-- 📬 **Réception Commandes** - Notifications en temps réel
-- 💬 **Chat Clients** - Communiquez avec vos clients
-- 📊 **Statistiques** - Suivez vos performances
-- 🗺️ **Géolocalisation** - Soyez visible sur la carte
+-  **Profil Restaurant** - Créez votre vitrine en ligne
+-  **Gestion Menu** - Ajoutez et modifiez vos plats
+-  **Réception Commandes** - Notifications en temps réel
+-  **Chat Clients** - Communiquez avec vos clients
+-  **Statistiques** - Suivez vos performances
+-  **Géolocalisation** - Soyez visible sur la carte
 
 ---
 
-## 🚀 Démarrage Rapide
+##  Démarrage Rapide
 
 ### Installation
 
@@ -57,26 +57,26 @@ Ouvrir : **http://localhost:5174**
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
-### 📱 Mobile
+###  Mobile
 - **[MOBILE_OPTIMIZATIONS.md](MOBILE_OPTIMIZATIONS.md)** - Détails techniques des optimisations
 - **[GUIDE_TEST_MOBILE.md](GUIDE_TEST_MOBILE.md)** - Comment tester sur téléphone
 
-### 🤖 Chatbot
+###  Chatbot
 - **[CHATBOT_TRAINING.md](CHATBOT_TRAINING.md)** - Système de chatbot intelligent
 - **[TEST_CHATBOT.md](TEST_CHATBOT.md)** - Scénarios de test
 - **[CHATBOT_EXAMPLES.md](CHATBOT_EXAMPLES.md)** - Exemples de conversations
 
-### 🚀 Déploiement
+###  Déploiement
 - **[DEPLOIEMENT.md](DEPLOIEMENT.md)** - Guide de déploiement complet
 - **[RESUME_AMELIORATIONS.md](RESUME_AMELIORATIONS.md)** - Résumé des améliorations
 
 ---
 
-## 🎯 Optimisations Mobile
+##  Optimisations Mobile
 
-### ✅ Ce qui a été fait
+###  Ce qui a été fait
 
 - **Viewport Optimisé** - Pas de zoom accidentel
 - **Hauteurs Dynamiques** - Gère la barre d'adresse mobile
@@ -86,35 +86,35 @@ Ouvrir : **http://localhost:5174**
 - **Feedback Visuel** - Animations au toucher
 - **Carte Optimisée** - Contrôles tactiles fluides
 
-### 📊 Résultats
+###  Résultats
 
-- ⚡ Temps de chargement : **<3s**
-- 📱 Score mobile Lighthouse : **>90**
-- 👆 Taux de clics : **+45%**
-- 😊 Satisfaction utilisateur : **85%**
+-  Temps de chargement : **<3s**
+-  Score mobile Lighthouse : **>90**
+-  Taux de clics : **+45%**
+-  Satisfaction utilisateur : **85%**
 
 ---
 
-## 🤖 Chatbot Intelligent
+##  Chatbot Intelligent
 
 ### Système à 3 Niveaux
 
-1. **Base de Connaissances** (⚡ <100ms)
+1. **Base de Connaissances** ( <100ms)
    - 20+ questions pré-définies
    - 60+ mots-clés
    - 3 langues (FR, EN, AR)
 
-2. **Logique Métier** (🎯 <500ms)
+2. **Logique Métier** ( <500ms)
    - Recherche restaurants
    - Calcul prix
    - Informations pratiques
 
-3. **IA Générative** (🧠 1-3s)
+3. **IA Générative** ( 1-3s)
    - Réponses personnalisées
    - Contexte enrichi
    - Apprentissage continu
 
-### 💬 Exemples de Questions
+###  Exemples de Questions
 
 ```
 "C'est quoi GeoResto ?"
@@ -127,7 +127,7 @@ Ouvrir : **http://localhost:5174**
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Frontend
 - **React 18** + **TypeScript**
@@ -153,7 +153,7 @@ Ouvrir : **http://localhost:5174**
 
 ---
 
-## 📱 Test sur Mobile
+##  Test sur Mobile
 
 ### Méthode 1 : Simulateur
 
@@ -181,7 +181,7 @@ Voir **[GUIDE_TEST_MOBILE.md](GUIDE_TEST_MOBILE.md)** pour plus de détails.
 
 ---
 
-## 🧪 Tests
+##  Tests
 
 ### Tests Manuels
 
@@ -190,13 +190,13 @@ Voir **[GUIDE_TEST_MOBILE.md](GUIDE_TEST_MOBILE.md)** pour plus de détails.
 npm run dev
 
 # Tester :
-✅ Sélection Client/Chef
-✅ Authentification
-✅ Carte interactive
-✅ Recherche restaurants
-✅ Commande
-✅ Chat
-✅ Chatbot
+ Sélection Client/Chef
+ Authentification
+ Carte interactive
+ Recherche restaurants
+ Commande
+ Chat
+ Chatbot
 ```
 
 ### Tests Chatbot
@@ -215,7 +215,7 @@ Voir **[TEST_CHATBOT.md](TEST_CHATBOT.md)** pour la liste complète.
 
 ---
 
-## 🚀 Déploiement
+##  Déploiement
 
 ### Firebase Hosting
 
@@ -243,7 +243,7 @@ Voir **[DEPLOIEMENT.md](DEPLOIEMENT.md)** pour le guide complet.
 
 ---
 
-## 📊 Structure du Projet
+##  Structure du Projet
 
 ```
 georesto/
@@ -273,7 +273,7 @@ georesto/
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Variables d'Environnement
 
@@ -294,7 +294,7 @@ VITE_GEMINI_API_KEY=votre_clé_gemini
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 ### Ajouter une Connaissance au Chatbot
 
@@ -306,9 +306,9 @@ VITE_GEMINI_API_KEY=votre_clé_gemini
   keywords: ['mot-clé1', 'mot-clé2'],
   question: 'Question',
   answer: {
-    fr: 'Réponse en français 🎉',
-    en: 'Answer in English 🎉',
-    ar: 'الإجابة بالعربية 🎉'
+    fr: 'Réponse en français ',
+    en: 'Answer in English ',
+    ar: 'الإجابة بالعربية 
   },
   category: 'app'
 }
@@ -318,22 +318,22 @@ VITE_GEMINI_API_KEY=votre_clé_gemini
 
 ---
 
-## 📈 Roadmap
+##  Roadmap
 
-### ✅ Fait (v2.0)
+###  Fait (v2.0)
 - [x] Optimisation mobile complète
 - [x] Chatbot intelligent multilingue
 - [x] Base de connaissances
 - [x] Support des encoches iPhone
 - [x] Carte interactive optimisée
 
-### 🚧 En Cours (v2.1)
+###  En Cours (v2.1)
 - [ ] Notifications push
 - [ ] Mode hors ligne
 - [ ] Paiement en ligne
 - [ ] Programme de fidélité
 
-### 🔮 Futur (v3.0)
+###  Futur (v3.0)
 - [ ] Chatbot vocal
 - [ ] Recommandations IA
 - [ ] App native (iOS/Android)
@@ -341,7 +341,7 @@ VITE_GEMINI_API_KEY=votre_clé_gemini
 
 ---
 
-## 🐛 Support
+##  Support
 
 ### Problèmes Courants
 
@@ -364,7 +364,7 @@ Voir **[DEPLOIEMENT.md](DEPLOIEMENT.md)** pour plus de solutions.
 
 ---
 
-## 📞 Contact
+##  Contact
 
 - **Email** : support@georesto.com
 - **GitHub** : [github.com/georesto](https://github.com/georesto)
@@ -372,21 +372,21 @@ Voir **[DEPLOIEMENT.md](DEPLOIEMENT.md)** pour plus de solutions.
 
 ---
 
-## 📄 Licence
+##  Licence
 
 MIT License - Voir [LICENSE](LICENSE)
 
 ---
 
-## 🎉 Remerciements
+##  Remerciements
 
 Merci à tous les contributeurs et utilisateurs de GeoResto !
 
-**Développé avec ❤️ et 🍕**
+**Développé avec  et **
 
 ---
 
-## 🚀 Commandes Rapides
+##  Commandes Rapides
 
 ```bash
 # Développement
